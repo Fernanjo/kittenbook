@@ -1,0 +1,1 @@
+Simple text file to check if the git pull command works
